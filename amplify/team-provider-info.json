@@ -17,6 +17,9 @@
       },
       "api": {
         "apmlifyreactgraphql": {}
+      },
+      "storage": {
+        "s33241cf00": {}
       }
     }
   }
