@@ -10,8 +10,10 @@ export type AmplifyDependentResourcesAttributes = {
     "apmlifyreactgraphqlb10c56ff": {
       "AppClientID": "string",
       "AppClientIDWeb": "string",
+      "HostedUIDomain": "string",
       "IdentityPoolId": "string",
       "IdentityPoolName": "string",
+      "OAuthMetadata": "string",
       "UserPoolArn": "string",
       "UserPoolId": "string",
       "UserPoolName": "string"
